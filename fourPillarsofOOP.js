@@ -1,4 +1,4 @@
-//four pillers of OOP
+//four pillars of OOP
 //The four pillars of object-oriented programming are:
 // 01.Abstraction
 // 02.Encapsulation
